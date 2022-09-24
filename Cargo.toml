@@ -1,0 +1,12 @@
+[package]
+name = "tutorial"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+tcod = "0.15"
+rand = "0.8.5"
+bracket-noise = "0.8.2"
+perlin_noise = "1.0.1"
